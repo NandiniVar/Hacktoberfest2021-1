@@ -1,3 +1,5 @@
+import os
+
 def CheckIfPalindrome(cadena):
     lista = []
     lista2 = []
